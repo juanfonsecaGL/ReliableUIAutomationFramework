@@ -14,7 +14,9 @@ pip install -r requirements.txt
 curl -o $chromeZip https://chromedriver.storage.googleapis.com/$chromeVersion/chromedriver_mac64.zip
 unzip $chromeZip
 mv chromedriver $binFolder
+cd Features
 behave
+cd ..
 
 # clean
 rm $chromeZip
