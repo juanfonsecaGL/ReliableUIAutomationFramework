@@ -1,6 +1,7 @@
-# ReliableUIAutomationFramework
+# Reliable UI Automation Framework
 
-Based on series https://gorillalogic.com/blog/how-to-build-a-reliable-qa-ui-automation-framework-part-1/
+2020 Juan M. Fonseca-Solis
+* Based on series https://gorillalogic.com/blog/how-to-build-a-reliable-qa-ui-automation-framework-part-1/
 
 ## Installation
 Run 
