@@ -8,7 +8,8 @@ Run
 
 ```
 chmod a+x install.sh;
-./install.sh```
+./install.sh
+```
 
 To execute the solution:
 ```
